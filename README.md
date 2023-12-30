@@ -6,4 +6,3 @@
 -  Kruskal-Wallis test
 -  The Spearman rank correlation coefficient and The Runs test
 -  Simulation Techniques and Monte Carlo Method
--  
